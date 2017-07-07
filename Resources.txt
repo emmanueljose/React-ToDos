@@ -1,0 +1,4 @@
+http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+https://www.siteground.com/tutorials/git/commands.htm
+http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+ftp://www-uxsup.csx.cam.ac.uk/pub/doc/redhat/redhat6.2/gsg-62/ch-doslinux.html
